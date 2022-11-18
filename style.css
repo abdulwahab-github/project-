@@ -1,0 +1,532 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+body{
+    font-family: Poppins, sans-serif;
+    
+}
+img{
+    width: 50px;
+    border-radius: 10px;
+}
+.text{
+    font-weight: bold;
+    margin-left: 1vh;
+  
+}
+
+
+.navbr{
+
+   position: fixed;
+   
+background-color: rgb(152, 134, 134);
+    width: 100%;
+   background-color: b ;
+ /* box-shadow: 1px 1px 2px black; */
+}
+.Categories{
+    margin-left: 20px;
+   
+}
+.Categories:hover{
+    color: yellow;
+    border-radius: 50px;
+    background-color: rgb(226, 226, 51);
+}
+.Business{
+    margin-left: 15vh;
+    font-weight: bold;
+    color: black;
+}
+/* .tilte{
+    color: white;
+} */
+.ALBUARQ{
+    font-size: 21px
+}
+.navbar-brand {
+    color: beige;
+}
+.btn{
+    color: beige;
+}
+.nav-link{
+color: beige;
+}
+.Business:hover{
+    color: yellow;
+    border-radius: 50px;
+    background-color: rgb(226, 226, 51);
+}
+.Contact:hover{
+    color: yellow;
+    border-radius: 50px;
+    background-color: rgb(226, 226, 51);
+}
+.signin:hover{
+    color: yellow;
+    border-radius: 50px;
+    background-color: rgb(226, 226, 51);
+}
+.signin{
+    margin-left: 20vh;
+}
+.icon{
+    width: 10vh;
+}
+.Contact{
+    margin-left: 50px;
+}
+h5{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10vh;
+}
+.Manufacturer{
+    text-decoration: none;
+    color: chocolate;
+    margin-left: 20vh;
+    border-radius: 15px;   
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+  /* border: 2px solid chocolate; */ 
+  width: 20vh;
+  border: 2px solid chocolate;
+    font-size: 16px; 
+  
+}
+.Manufacturer:hover{
+    color: chocolate;
+}
+p{
+    margin-left: 10vh;
+    color: gray;
+    margin-top: 10px;
+}
+.Claim{
+    border-radius: 10px;
+    width: 425px;
+    height: 6vh;
+    font-size: 25px;
+    padding-left: 14vh;
+    
+    
+    background-color: rgb(234, 181, 21);
+    padding-top: 5px;
+}
+
+.Pervaiz{
+  
+    line-height: 20px;
+}
+hr{
+    color: rgb(255, 255, 255);
+    width: 61vh;
+}
+
+
+.personal-contact{
+   margin-left: 120vh   ;
+    background-color: rgb(0, 0, 0);
+    width: 58vh;
+    height: 42vh;
+    color: beige;
+    border-radius: 10px;
+}
+.contact{
+    color: beige;
+}
+.foam{
+    background-color:rgb(234, 181, 21) ;
+    width: 28vh;
+    color: gray;
+    padding: 2px 2px 4px 6px ;
+    border-radius: 10px;
+  
+   
+}
+.Overview{
+ color:rgb(234, 181, 21) ;
+
+    font-size: 21px;
+
+}
+.display{
+    display :inline-table;
+}
+.hr{
+    margin-left: 65px;
+    width: 100vh;
+    color: rgb(234, 181, 21);
+}
+.information{
+    font-size: 15px ;
+}
+.Products{
+    font-size: 30px ;
+}
+.FOAM-PRODUCTS{
+    font-size: 19px;
+}
+.check{
+    border-radius: 10px;
+    padding: 2px 2px 2px 2px ;
+    background-color:rgb(234, 181, 21) ;
+}
+.Zahid{
+    font-size: 22px;
+}
+.Machinery{
+    padding: 3px 3px 3px 3px ;
+    border-radius: 10px;
+     background-color: beige;
+}
+.end{
+    color: black;
+  width: auto;
+}
+.uli a{
+    text-decoration: none;
+    color: rgb(93, 83, 83);
+    font-size: 19px;
+}
+.uli li{
+    padding-top: 10px;
+    margin-left: 10vh;
+    list-style: none;
+}
+.uli li:hover{
+    color: rgb(255, 195, 16);
+    margin-left: 11vh;
+    transform: translateX(5px);
+}
+.uli{
+    display: flex;
+}
+.Karachi{
+    text-align: center;
+}
+.top{
+    margin-top: -40vh;
+}
+.background1{
+    background-color:rgba(222, 219, 219, 0.915) ;
+    align-items: center;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.background2{
+    background-color:rgba(222, 219, 219, 0.915) ;
+    align-items: center;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.background3{
+    background-color:rgba(222, 219, 219, 0.915) ;
+    align-items: center;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.background4{
+    background-color:rgba(222, 219, 219, 0.915) ;
+    
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.background5{
+    background-color:rgba(222, 219, 219, 0.915) ;
+   width: 110vh;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.signmain{
+    padding-top: 20vh;
+    padding-left: 50vh;
+    align-items: center;
+}
+.headingsign{
+    background-color: rgb(255, 195, 16);
+   text-align: center;
+    padding-bottom: 5px;
+    width: 80vh;
+    margin-left: 65vh;
+    font-weight: bold;
+    border-radius: 50px;
+}
+input{
+    margin-left: 15px;
+     border-radius: 10px;
+     width: 75vh;
+     font-size: 20px;
+     padding-left: 10px;
+}
+.loginopt{
+    padding-top: 120px;
+  
+    text-align: center;
+}
+.loga{
+    text-decoration: none;
+color: rgb(255, 195, 16);
+font-weight: bold;
+}
+.sub{
+    text-align: center;
+    width: 15vh;
+}
+.text-warning{
+    color: red  !important;
+}
+.btn{
+    width: 20vh;
+
+    padding: 5px;
+}
+form{
+    text-align: center;
+}
+.signup{
+    
+    background-color: rgb(255, 195, 16);
+
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    width: 35vh;
+    margin-top: 10vh;
+    margin-left: 65vh;
+    border-radius: 10px;
+}
+a{
+    
+    text-decoration: none;
+}
+.opt{
+    color: blue;
+}
+.loginchoice{
+ text-align: center;
+ color: black;
+ font-weight: bold;
+}
+.inputsigup{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom : 5px;
+}
+.signupbtn{
+    background-color: rgb(255, 195, 16);
+    width: 20vh;
+}
+.headinexp{
+    font-weight: normal;
+
+}
+.ptop{
+    margin-left: 19vh;
+    color: black;
+}
+.List-of-textile{
+    font-size: 3.5vh;
+    margin-left: 4vh;
+}
+.disply{
+    display: flex;
+}
+.List-of-textile1{
+    /* display:inline !important; */
+    margin-top: 5.5vh;
+    margin-left: -50vh;
+}
+.List-of-chemical {
+    font-size: 3.5vh;
+    padding-left: 25vh;
+}
+.ll{
+    width:auto;
+}
+.disply2{
+    display: flex;
+}
+.ContactUs{
+    margin-left: 55px;
+}
+.personal-contact1{
+    margin-left: 40vh   ;
+    font-size: 23px;
+    background-color: rgb(0, 0, 0);
+    width: 60vh;
+    height: 49vh;
+    color: beige;
+    border-radius: 10px;
+}
+.Claim1{
+    border-radius: 10px;
+    width: 395px;
+    height: 6vh;
+    font-size: 25px;
+    padding-left: 14vh;
+    
+    
+    background-color: rgb(234, 181, 21);
+    padding-top: 5px;
+}
+
+
+
+ @media (max-width: 425px){
+    
+    
+    .navbr{
+
+        background-color: rgb(152, 134, 134);
+     width: auto; 
+        
+     
+       
+        margin-left: -5vh;
+        
+    }
+  
+    .navbar-brand{
+     font-size: 40px;
+
+    }
+    .signin{
+       margin-left: 1vh;
+    }
+    .signin:hover{
+        width: 20vh;
+        padding-left: 4vh;
+    }
+    .Contact{
+        margin-left: 4vh;
+    }
+    .Categories{
+        margin-left: 4vh;
+    }
+    .foam{
+        text-align: center;
+    }
+    .Business{
+        margin-left: 2vh;
+    }
+    .Contact:hover{
+        width: 20vh;
+        padding-left: 4vh;
+    }
+    .Categories:hover{
+        width: 20vh;
+        padding-left: 4vh;
+    }
+    .top{
+        margin-left: -8vh;
+        margin-top: 11vh;
+    }
+    .personal-contact{
+        margin-left: 7vh;
+        margin-top: 10vh;
+        font-size: 18px;
+      
+        padding-left: -2;
+       width: 70%;
+      
+    }
+    .Pervaiz{
+        font-size: 18px;
+    }
+    .hr{
+        margin-left: 0px;
+        width: 50vh;
+    }
+   
+.buraq2{
+    
+    margin-left: -8vh;
+}
+.BURAQ{
+    width: 40vh;
+}
+.heading{
+    font-size: 16px !important;
+}
+.Manufacturer{
+    margin-left: 12vh;
+}
+.background1{
+    
+  
+    width: 55vh;
+}
+.background2{
+    
+   
+    width: 55vh;
+}
+.background3{
+    
+   
+    width: 55vh;
+}
+.background4{
+    
+   
+    width: 55vh;
+}
+.information{
+    width: 40vh;
+}
+
+.uli{
+    display: inline;
+}
+.end{
+    width: 40vh;
+}
+
+    .footer{
+        margin-left: -8vh;       
+   
+    }
+    .Karachi{
+        margin-left: -5vh;  
+        font-size: 15px;
+    }
+    .ContactUs{
+        margin-left: 2vh;
+    }
+    .Contactpara{
+        margin-left: 2vh;
+        font-size: 14px;
+        width: 60vh;
+    }
+    .personal-contact1{
+        margin-left: 7vh;
+        margin-top: 10vh;
+        padding-bottom: 20vh;
+        width: 55vh;
+    }
+    .Claim1{
+        width: 55vh;
+    }
+    .signup{
+        margin-left: 5vh;
+    }
+    .inputsigup{
+        width: 70%;
+    }
+    .List-of-textile{
+        font-size: 14px;
+    }
+  .List-of-Leather{
+   display: inline;
+  }
+  .List-of-textile1{
+    display: inline;
+  }
+  .List-of-chemical {
+    display: block;
+  }
+  
+
+} 
